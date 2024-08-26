@@ -1,0 +1,35 @@
+{
+    "name": "Jatin Sood",
+    "profession": "Electronics and Communication Engineering Student",
+    "age": 18,
+    "location": "Shimla, Himachal Pradesh",
+    "bio": "I am a passionate Electronics and Communication Engineering student at NIT Hamirpur. I have a keen interest in technology and enjoy working on innovative projects.",
+    "projects": [
+      {
+        "title": "Robotics using Arduino",
+        "description": "A project focused on building and programming robots using Arduino technology.",
+        "link": ""
+      },
+      {
+        "title": "Basic Signal Processing using MATLAB",
+        "description": "An exploration of signal processing techniques using MATLAB.",
+        "link": "https://www.bing.com/images/search?view=detailV2&ccid=vIu6qlJh&id=531EADDF0AF44FA9B6C6D1A84D5105070D84DDF6&thid=OIP.vIu6qlJhdbysZrLJC4NISwHaEK&mediaurl=https%3a%2f%2flirp.cdn-website.com%2f15affbbf%2fdms3rep%2fmulti%2fopt%2fUSASIC%2b-%2bDSP-1920w.jpg&exph=1080&expw=1920&q=signal+processing+&simid=608020327474752110&FORM=IRPRST&ck=4CF46D9D91D971896C6DFDB089249E0C&selectedIndex=0&itb=0"
+      },
+      {
+        "title": "IoT-based Home Automation",
+        "description": "A project that integrates Internet of Things (IoT) technology for automating home systems.",
+        "link": "https://www.bing.com/ck/a?!&&p=4ae28008e4f14255JmltdHM9MTcyNDU0NDAwMCZpZ3VpZD0zOWExOTMwZC04ZWViLTZlMDgtMDYwNC04N2VjOGYxOTZmM2UmaW5zaWQ9NTY5OA&ptn=3&ver=2&hsh=3&fclid=39a1930d-8eeb-6e08-0604-87ec8f196f3e&u=a1L2ltYWdlcy9zZWFyY2g_cT1pb3QlMjBwaWNzJkZPUk09SVFGUkJBJmlkPTM0OEQzNjFGRTM0MkRGNzZCQUFCRDlBNDdBRUZFMDM2RERGMjFGQjk&ntb=1"
+      }
+    ],
+    "contact": [
+      {
+        "type": "Email",
+        "value": "jatins@example.com"
+      },
+      {
+        "type": "LinkedIn",
+        "value": "linkedin.com/in/jatinsood"
+      }
+    ]
+  }
+  
